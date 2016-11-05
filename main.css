@@ -1,1 +1,10 @@
-a
+.companies {
+width: auto;
+height: auto;
+font-family: opensans;
+font-size: 50px;
+font-weight: bold;
+line-height: 1;
+text-align: justify;
+color: #fbbc09;
+}
